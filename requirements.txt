@@ -1,0 +1,15 @@
+# core llm ecosystem
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+
+# scraping tools
+beautifulsoup4>=4.12.0
+readability-lxml
+trafilatura
+lxml
+
+# env variables
+tavily-python>=0.3.0
+python-dotenv>=1.0.0
